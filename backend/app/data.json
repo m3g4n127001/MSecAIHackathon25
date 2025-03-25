@@ -1,0 +1,58 @@
+[
+    {
+        "DisplayName": "aaaaaaa",
+        "SID": "8bd6ecaf-85cc-45...",
+        "Domain": "MCSAATp...",
+        "Type": "User",
+        "ObjectID": "...",
+        "CloudID": "...",
+        "Source": "Cloud",
+        "UPN": "aaaaa@MCSAATp...",
+        "Tags": "",
+        "CriticalityLevel": "Enabled",
+        "AccountStatus": "Enabled",
+        "LastUpdated": "Jan 10, 2023"
+    },
+    {
+        "DisplayName": "AAD IGA Read Application",
+        "SID": "5668f231-85cc-45...",
+        "Domain": "",
+        "Type": "Service",
+        "ObjectID": "...",
+        "CloudID": "...",
+        "Source": "Cloud",
+        "UPN": "",
+        "Tags": "",
+        "CriticalityLevel": "Enabled",
+        "AccountStatus": "Enabled",
+        "LastUpdated": "Jan 10, 2023"
+    },
+    {
+        "DisplayName": "Abelardo Melton",
+        "SID": "5-1-5-21-2687651...",
+        "Domain": "domain1.test.local",
+        "Type": "User",
+        "ObjectID": "cefb2f3f-45...",
+        "CloudID": "...",
+        "Source": "Hybrid",
+        "UPN": "AMelton@domain...",
+        "Tags": "",
+        "CriticalityLevel": "Very High",
+        "AccountStatus": "Enabled",
+        "LastUpdated": "Sep 19, 2022"
+    },
+    {
+        "DisplayName": "Accessibility Admin",
+        "SID": "...",
+        "Domain": "",
+        "Type": "User",
+        "ObjectID": "1ec7c167-45...",
+        "CloudID": "...",
+        "Source": "Cloud",
+        "UPN": "accessibility_admin@...",
+        "Tags": "",
+        "CriticalityLevel": "High",
+        "AccountStatus": "Enabled",
+        "LastUpdated": "Dec 26, 2023"
+    }
+]

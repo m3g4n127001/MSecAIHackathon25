@@ -1,0 +1,7 @@
+{
+    "DomainType": ["User", "Service"],
+    "Source": ["On-prem", "Cloud", "Hybrid"],
+    "Tags": ["Sensitive", "Honeytoken"],
+    "CriticalityLevel": ["Very High", "High", "Medium", "Low", "None"],
+    "IsAccountEnabled": ["1", "0"]
+}
