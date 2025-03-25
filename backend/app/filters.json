@@ -1,7 +1,8 @@
 {
-    "DomainType": ["User", "Service"],
-    "Source": ["On-prem", "Cloud", "Hybrid"],
+    "Domain": ["domain1.test.local", "domain2.test.local", "MCASAATP.ccsctp.net", "mcasaatp.ccsctp.net", "darya3112.test.local", "vs.test.local", "domain3.test.local", "domain5.test.local", "yuvalp.test1025.local", "mydomain14.com", "yuval22.test.local", "dev-93500790.okta.com", "darya1.test.local", "barbox1.test.local", "domain8.test.local", "darya2.test.local", "yuval30.test.local", "efig3.devlab.test", "altshuler.xyz"],
+    "Type": ["User", "Service"],
+    "Source": ["On-premises", "Cloud", "Hybrid"],
     "Tags": ["Sensitive", "Honeytoken"],
-    "CriticalityLevel": ["Very High", "High", "Medium", "Low", "None"],
-    "IsAccountEnabled": ["1", "0"]
+    "Criticality Level": ["Very High", "High", "Medium", "Low", "None"],
+    "Account Status": ["Enabled", "Disabled"]
 }

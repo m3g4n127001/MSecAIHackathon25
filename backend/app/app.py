@@ -5,6 +5,7 @@ from IdentityFilterAgent import IdentityFilterAgent
 from OpenAIChatAgentDemo import OpenAIChatAgentDemo
 from AgentWithFunctionCall import AgentWithFunctionCall
 from SilentAgent import SilentAgent
+from FilterAgent2 import FilterAgent
 
 app = Flask(__name__)
 CORS(app)
@@ -29,7 +30,7 @@ config_list = [
 ]
 
 # Initialize the DataAgent
-data_agent = IdentityFilterAgent(config_list)
+data_agent = FilterAgent(config_list)
 
 @app.route('/test', methods=['GET'])
 def test():
@@ -44,7 +45,7 @@ def copilot():
     #     console.log(response["error"])
     #     return jsonify({"error": response["error"]}), 500
     print(response)
-    return jsonify({"filters": response.summary})
+    return jsonify({"filters": response})
     #return response
 
 
