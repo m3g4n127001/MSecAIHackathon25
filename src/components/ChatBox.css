@@ -1,0 +1,58 @@
+.chatbox {
+    display: flex;
+    flex-direction: column;
+    height: 100vh; /* Full viewport height */
+    padding: 20px;
+    box-shadow: -4px 0 8px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}
+
+.chat-messages {
+    flex: 1;
+    overflow-y: auto;
+    border: 1px solid #d0d0d0;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: #ffffff;
+    margin-bottom: 10px; /* Add margin to separate from input area */
+}
+
+.message {
+    margin: 5px 0;
+    padding: 8px 12px;
+    border-radius: 15px;
+}
+
+.message.User {
+    background-color: #d1e7fd;
+    text-align: right;
+}
+
+.message.Bot {
+    background-color: #f0f0f0;
+    text-align: left;
+}
+
+.chat-input {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.chat-input input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}
+
+.chat-input button {
+    background-color: #0078d4;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}

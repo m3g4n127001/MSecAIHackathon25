@@ -1,0 +1,35 @@
+.identity-table-container {
+    padding: 20px;
+}
+
+.table-wrapper {
+    overflow-x: auto;
+    width: 100%;
+}
+
+.identity-table {
+    min-width: 1000px;
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed; /* Ensures consistent column widths */
+}
+
+.identity-table th,
+.identity-table td {
+    border: 1px solid #ddd;
+    font-size: 14px;
+    padding: 8px;
+    text-align: left;
+    word-wrap: break-word; /* Ensures long text wraps within the cell */
+}
+
+.identity-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+.no-data-msg {
+    text-align: center;
+    color: #888;
+    margin-top: 20px;
+}

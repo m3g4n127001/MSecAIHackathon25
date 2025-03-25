@@ -1,0 +1,101 @@
+﻿AccountDisplayName,OnPremSid,AccountDomain,Type,AccountObjectId,CloudSid,SourceProvider,SourceSystem,AccountUpn,Tags,CreatedDateTime,CriticalityLevel,RiskStatus,EmailAddress,IsAccountEnabled
+Janessa Crawford,S-1-5-21-306263214-2362191459-3415812841-1138,,User,,,Hybrid,,KSantiago@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:20 PM",,,JCrawford@domain1.test.local,1
+Evlyn Bradshaw,S-1-5-21-306263214-2362191459-3415812841-1625,,User,,,Hybrid,,BGihon@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:46 PM",,,EBradshaw@domain1.test.local,1
+Myrta Dorset,S-1-5-21-306263214-2362191459-3415812841-1731,domain1.test.local,User,,,Hybrid,,DRowen@domain1.test.local,"[""Sensitive""]","Sep 2, 2024 7:59:57 PM",,,MDorset@domain1.test.local,1
+Crispin Winterton,S-1-5-21-306263214-2362191459-3415812841-1748,domain1.test.local,User,,,Hybrid,,IBlackwell@domain1.test.local,"[""Sensitive""]","Jun 25, 2022 8:55:03 PM",,,CWinterton@domain1.test.local,1
+Littleton Mcpherson,S-1-5-21-306263214-2362191459-3415812841-1528,,User,,,Hybrid,,HHanna@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:40 PM",,,LMcpherson@domain1.test.local,1
+Evlyn Bradshaw,S-1-5-21-306263214-2362191459-3415812841-1625,,User,,,Hybrid,,BGihon@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:46 PM",,,EBradshaw@domain1.test.local,1
+Reynaldo Pitts,S-1-5-21-306263214-2362191459-3415812841-2048,domain1.test.local,User,,,Hybrid,,RPitts@domain1.test.local,"[""Sensitive""]","Jan 29, 2025 4:28:58 PM",,,RPitts@domain1.test.local,1
+Theola Carmichael,S-1-5-21-306263214-2362191459-3415812841-1946,domain1.test.local,User,,,Hybrid,,WOakham@domain1.test.local,"[""Sensitive""]","Aug 18, 2024 5:03:29 PM",,,TCarmichael@domain1.test.local,1
+Giuseppe Hood,S-1-5-21-306263214-2362191459-3415812841-1859,domain5.test.local,User,,,Hybrid,,TConner@domain1.test.local,"[""Sensitive""]","Feb 14, 2023 3:20:25 PM",,,GHood@domain1.test.local,1
+Theola Carmichael,S-1-5-21-306263214-2362191459-3415812841-1946,domain1.test.local,User,,,Hybrid,,WOakham@domain1.test.local,"[""Sensitive""]","Aug 18, 2024 5:03:29 PM",,,TCarmichael@domain1.test.local,1
+Theola Carmichael,S-1-5-21-306263214-2362191459-3415812841-1946,domain1.test.local,User,,,Hybrid,,WOakham@domain1.test.local,"[""Sensitive""]","Aug 18, 2024 5:03:29 PM",,,TCarmichael@domain1.test.local,1
+Evlyn Bradshaw,S-1-5-21-306263214-2362191459-3415812841-1625,,User,,,Hybrid,,BGihon@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:46 PM",,,EBradshaw@domain1.test.local,1
+Theola Carmichael,S-1-5-21-306263214-2362191459-3415812841-1946,domain1.test.local,User,,,Hybrid,,WOakham@domain1.test.local,"[""Sensitive""]","Aug 18, 2024 5:03:29 PM",,,TCarmichael@domain1.test.local,1
+Reynaldo Pitts,S-1-5-21-306263214-2362191459-3415812841-2048,domain1.test.local,User,,,Hybrid,,RPitts@domain1.test.local,"[""Sensitive""]","Jan 29, 2025 4:28:58 PM",,,RPitts@domain1.test.local,1
+Crispin Winterton,S-1-5-21-306263214-2362191459-3415812841-1748,domain1.test.local,User,,,Hybrid,,RBradford@domain1.test.local,"[""Sensitive""]","Jun 25, 2022 8:55:03 PM",,,CWinterton@domain1.test.local,1
+honey9,S-1-5-21-527153972-3814832750-822285544-1605,domain8.test.local,User,,,ActiveDirectory,,honey9@domain8.test.local,"[""Honeytoken""]","Dec 2, 2024 1:58:02 PM",,,,1
+TestKerberosUser,S-1-5-21-306263214-2362191459-3415812841-8985,domain1.test.local,User,,,ActiveDirectory,,TestKerberosUser@domain1.test.local,[],"Jan 10, 2025 3:56:06 PM",,,,1
+,S-1-5-21-266913402-1626219364-3788061335-1238,darya3112.test.local,User,,,ActiveDirectory,,User128@,[],"Jan 23, 2025 7:29:57 PM",,,,1
+,S-1-5-21-2849047210-350468117-1197813238-1182,vs.test.local,User,,,ActiveDirectory,,User72@,[],"Jan 17, 2025 2:20:40 AM",,,,1
+,S-1-5-21-266913402-1626219364-3788061335-1145,darya3112.test.local,User,,,ActiveDirectory,,User35@,[],"Jan 23, 2025 7:29:45 PM",,,,1
+,S-1-5-21-2849047210-350468117-1197813238-1226,vs.test.local,User,,,ActiveDirectory,,User116@,[],"Jan 17, 2025 2:20:42 AM",,,,1
+,S-1-5-21-306263214-2362191459-3415812841-8653,domain1.test.local,User,,,ActiveDirectory,,KerberoastUser2174@domain1.test.local,[],"Nov 19, 2024 10:54:39 PM",,,,1
+,S-1-5-21-306263214-2362191459-3415812841-8747,domain1.test.local,User,,,ActiveDirectory,,KerberoastUser2268@domain1.test.local,[],"Nov 19, 2024 10:54:43 PM",,,,1
+,S-1-5-21-306263214-2362191459-3415812841-8514,domain1.test.local,User,,,ActiveDirectory,,KerberoastUser2035@domain1.test.local,[],"Nov 19, 2024 10:54:34 PM",,,,1
+,S-1-5-21-306263214-2362191459-3415812841-8637,domain1.test.local,User,,,ActiveDirectory,,KerberoastUser2158@domain1.test.local,[],"Nov 19, 2024 10:54:39 PM",,,,1
+,S-1-5-21-306263214-2362191459-3415812841-8087,domain1.test.local,User,,,ActiveDirectory,,KerberoastUser1608@domain1.test.local,[],"Nov 19, 2024 10:54:17 PM",,,,1
+,S-1-5-21-306263214-2362191459-3415812841-8324,domain1.test.local,User,,,ActiveDirectory,,KerberoastUser1845@domain1.test.local,[],"Nov 19, 2024 10:54:27 PM",,,,1
+Janessa Crawford,S-1-5-21-306263214-2362191459-3415812841-1138,,User,,,Hybrid,,KSantiago@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:20 PM",,,JCrawford@domain1.test.local,1
+Donelda Pearson,S-1-5-21-306263214-2362191459-3415812841-1192,domain5.test.local,User,,,Hybrid,,DStephenson@domain1.test.local,"[""Sensitive""]","Feb 14, 2023 3:19:42 PM",,,DPearson@domain1.test.local,1
+Bertille Balcombe,S-1-5-21-306263214-2362191459-3415812841-1169,domain1.test.local,User,,,Hybrid,,BBalcombe@domain1.test.local,"[""Sensitive""]","Sep 2, 2024 7:59:19 PM",,,BBalcombe@domain1.test.local,1
+Benedetta Parsons,S-1-5-21-306263214-2362191459-3415812841-1293,domain1.test.local,User,,,Hybrid,,OKirkpatrick@domain1.test.local,"[""Sensitive""]","Dec 28, 2022 7:00:56 PM",,,BParsons@domain1.test.local,1
+Garald Gaston,S-1-5-21-306263214-2362191459-3415812841-1263,domain1.test.local,User,,,Hybrid,,KNeal@domain1.test.local,"[""Sensitive""]","Jun 25, 2022 8:54:25 PM",,,GGaston@domain1.test.local,1
+Kathyrn Rojas,S-1-5-21-306263214-2362191459-3415812841-1800,domain1.test.local,User,,,Hybrid,,MConyers@domain1.test.local,"[""Sensitive""]","Sep 2, 2024 8:00:01 PM",,,KRojas@domain1.test.local,1
+Crispin Winterton,S-1-5-21-306263214-2362191459-3415812841-1748,domain1.test.local,User,,,Hybrid,,RBradford@domain1.test.local,"[""Sensitive""]","Jun 25, 2022 8:55:03 PM",,,CWinterton@domain1.test.local,1
+Evlyn Bradshaw,S-1-5-21-306263214-2362191459-3415812841-1625,,User,,,Hybrid,,BGihon@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:46 PM",,,EBradshaw@domain1.test.local,1
+Reynaldo Pitts,S-1-5-21-306263214-2362191459-3415812841-2048,domain1.test.local,User,,,Hybrid,,RPitts@domain1.test.local,"[""Sensitive""]","Jan 29, 2025 4:28:58 PM",,,RPitts@domain1.test.local,1
+Evlyn Bradshaw,S-1-5-21-306263214-2362191459-3415812841-1625,,User,,,Hybrid,,BGihon@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:46 PM",,,EBradshaw@domain1.test.local,1
+Garald Gaston,S-1-5-21-306263214-2362191459-3415812841-1263,domain1.test.local,User,,,Hybrid,,KNeal@domain1.test.local,"[""Sensitive""]","Jun 25, 2022 8:54:25 PM",,,GGaston@domain1.test.local,1
+Crispin Winterton,S-1-5-21-306263214-2362191459-3415812841-1748,domain1.test.local,User,,,Hybrid,,RBradford@domain1.test.local,"[""Sensitive""]","Jun 25, 2022 8:55:03 PM",,,CWinterton@domain1.test.local,1
+Bernece Northop,S-1-5-21-306263214-2362191459-3415812841-1736,,User,,,Hybrid,,BNorthop@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:52 PM",,,BNorthop@domain1.test.local,1
+Crispin Winterton,S-1-5-21-306263214-2362191459-3415812841-1748,domain1.test.local,User,,,Hybrid,,RBradford@domain1.test.local,"[""Sensitive""]","Jun 25, 2022 8:55:03 PM",,,CWinterton@domain1.test.local,1
+Brodie Blaney,S-1-5-21-306263214-2362191459-3415812841-1341,domain3.test.local,User,,,Hybrid,,KSandford@domain1.test.local,"[""Sensitive""]","Oct 27, 2022 1:53:35 PM",,,BBlaney@domain1.test.local,1
+Brodie Blaney,S-1-5-21-306263214-2362191459-3415812841-1341,domain3.test.local,User,,,Hybrid,,KSandford@domain1.test.local,"[""Sensitive""]","Oct 27, 2022 1:53:35 PM",,,BBlaney@domain1.test.local,1
+Nelma Mundy,S-1-5-21-306263214-2362191459-3415812841-1184,,User,,,Hybrid,,CSaunders@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:22 PM",,,NMundy@domain1.test.local,1
+Garald Gaston,S-1-5-21-306263214-2362191459-3415812841-1263,domain1.test.local,User,,,Hybrid,,KNeal@domain1.test.local,"[""Sensitive""]","Jun 25, 2022 8:54:25 PM",,,GGaston@domain1.test.local,1
+Reynaldo Pitts,S-1-5-21-306263214-2362191459-3415812841-2048,domain1.test.local,User,,,Hybrid,,RPitts@domain1.test.local,"[""Sensitive""]","Jan 29, 2025 4:28:58 PM",,,RPitts@domain1.test.local,1
+Evlyn Bradshaw,S-1-5-21-306263214-2362191459-3415812841-1625,,User,,,Hybrid,,BGihon@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:46 PM",,,EBradshaw@domain1.test.local,1
+Crispin Winterton,S-1-5-21-306263214-2362191459-3415812841-1748,domain1.test.local,User,,,Hybrid,,RBradford@domain1.test.local,"[""Sensitive""]","Jun 25, 2022 8:55:03 PM",,,CWinterton@domain1.test.local,1
+Evlyn Bradshaw,S-1-5-21-306263214-2362191459-3415812841-1625,,User,,,Hybrid,,BGihon@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:46 PM",,,EBradshaw@domain1.test.local,1
+Crispin Winterton,S-1-5-21-306263214-2362191459-3415812841-1748,domain1.test.local,User,,,Hybrid,,RBradford@domain1.test.local,"[""Sensitive""]","Jun 25, 2022 8:55:03 PM",,,CWinterton@domain1.test.local,1
+Kathyrn Rojas,S-1-5-21-306263214-2362191459-3415812841-1800,domain1.test.local,User,,,Hybrid,,MConyers@domain1.test.local,"[""Sensitive""]","Sep 2, 2024 8:00:01 PM",,,KRojas@domain1.test.local,1
+Theola Carmichael,S-1-5-21-306263214-2362191459-3415812841-1946,domain1.test.local,User,,,Hybrid,,WOakham@domain1.test.local,"[""Sensitive""]","Aug 18, 2024 5:03:29 PM",,,TCarmichael@domain1.test.local,1
+Theola Carmichael,S-1-5-21-306263214-2362191459-3415812841-1946,domain1.test.local,User,,,Hybrid,,WOakham@domain1.test.local,"[""Sensitive""]","Aug 18, 2024 5:03:29 PM",,,TCarmichael@domain1.test.local,1
+Theola Carmichael,S-1-5-21-306263214-2362191459-3415812841-1946,domain1.test.local,User,,,Hybrid,,WOakham@domain1.test.local,"[""Sensitive""]","Aug 18, 2024 5:03:29 PM",,,TCarmichael@domain1.test.local,1
+Theola Carmichael,S-1-5-21-306263214-2362191459-3415812841-1946,domain1.test.local,User,,,Hybrid,,WOakham@domain1.test.local,"[""Sensitive""]","Aug 18, 2024 5:03:29 PM",,,TCarmichael@domain1.test.local,1
+Theola Carmichael,S-1-5-21-306263214-2362191459-3415812841-1946,domain1.test.local,User,,,Hybrid,,WOakham@domain1.test.local,"[""Sensitive""]","Aug 18, 2024 5:03:29 PM",,,TCarmichael@domain1.test.local,1
+Theola Carmichael,S-1-5-21-306263214-2362191459-3415812841-1946,domain1.test.local,User,,,Hybrid,,WOakham@domain1.test.local,"[""Sensitive""]","Aug 18, 2024 5:03:29 PM",,,TCarmichael@domain1.test.local,1
+Reynaldo Pitts,S-1-5-21-306263214-2362191459-3415812841-2048,domain1.test.local,User,,,Hybrid,,RPitts@domain1.test.local,"[""Sensitive""]","Jan 29, 2025 4:28:58 PM",,,RPitts@domain1.test.local,1
+,S-1-5-21-759538123-1042936442-674163799-502,d_tc2502d.defensor.local,User,,,ActiveDirectory,,,"[""Sensitive""]","Nov 24, 2024 1:31:12 PM",,,,0
+fooadmin,S-1-5-21-2733286291-3901550035-2797273489-1112,yuval22.test.local,User,,,ActiveDirectory,,fooadmin@yuval22.test.local,"[""Sensitive""]","Dec 1, 2024 4:54:30 PM",,,,1
+LDAPUser52529,S-1-5-21-989687458-3461180213-172365591-333178,domain1.test.local,User,971d3fac-6d13-4223-9b0c-57f36574950c,S-1-12-4-2535276460-1109617939-4082568347-211121253,Hybrid,,LDAPUser52529@domain1.test.local,[],"Jul 21, 2022 8:21:39 PM",,,,1
+,S-1-5-21-2849047210-350468117-1197813238-1186,vs.test.local,User,,,ActiveDirectory,,User76@,[],"Jan 17, 2025 2:20:40 AM",,,,1
+,S-1-5-21-266913402-1626219364-3788061335-1195,darya3112.test.local,User,,,ActiveDirectory,,User85@,[],"Jan 23, 2025 7:29:52 PM",,,,1
+,S-1-5-21-2849047210-350468117-1197813238-1127,vs.test.local,User,,,ActiveDirectory,,User17@,[],"Jan 17, 2025 2:20:37 AM",,,,1
+,S-1-5-21-266913402-1626219364-3788061335-1138,darya3112.test.local,User,,,ActiveDirectory,,User28@,[],"Jan 23, 2025 7:29:44 PM",,,,1
+,S-1-5-21-266913402-1626219364-3788061335-1370,darya3112.test.local,User,,,ActiveDirectory,,User258@,[],"Jan 26, 2025 4:03:04 PM",,,,1
+,S-1-5-21-266913402-1626219364-3788061335-1361,darya3112.test.local,User,,,ActiveDirectory,,User249@,[],"Jan 26, 2025 4:03:03 PM",,,,1
+,S-1-5-21-266913402-1626219364-3788061335-1269,darya3112.test.local,User,,,ActiveDirectory,,User157@,[],"Jan 26, 2025 4:02:51 PM",,,,1
+,S-1-5-21-306263214-2362191459-3415812841-8751,domain1.test.local,User,,,ActiveDirectory,,KerberoastUser2272@domain1.test.local,[],"Nov 19, 2024 10:54:43 PM",,,,1
+,S-1-5-21-306263214-2362191459-3415812841-8263,domain1.test.local,User,,,ActiveDirectory,,KerberoastUser1784@domain1.test.local,[],"Nov 19, 2024 10:54:24 PM",,,,1
+,S-1-5-21-306263214-2362191459-3415812841-8776,domain1.test.local,User,,,ActiveDirectory,,KerberoastUser2297@domain1.test.local,[],"Nov 19, 2024 10:54:44 PM",,,,1
+,S-1-5-21-306263214-2362191459-3415812841-8850,domain1.test.local,User,,,ActiveDirectory,,KerberoastUser2371@domain1.test.local,[],"Nov 19, 2024 10:54:47 PM",,,,1
+,S-1-5-21-306263214-2362191459-3415812841-8430,domain1.test.local,User,,,ActiveDirectory,,KerberoastUser1951@domain1.test.local,[],"Nov 19, 2024 10:54:31 PM",,,,1
+Clarence Saunders,S-1-5-21-306263214-2362191459-3415812841-1186,domain3.test.local,User,,,Hybrid,,CSaunders@domain1.test.local,"[""Sensitive""]","Oct 27, 2022 1:53:24 PM",,,CSaunders@domain1.test.local,1
+,S-1-5-21-306263214-2362191459-3415812841-8598,domain1.test.local,User,,,ActiveDirectory,,KerberoastUser2119@domain1.test.local,[],"Nov 19, 2024 10:54:37 PM",,,,1
+Benedetta Parsons,S-1-5-21-306263214-2362191459-3415812841-1293,domain1.test.local,User,,,Hybrid,,OKirkpatrick@domain1.test.local,"[""Sensitive""]","Dec 28, 2022 7:00:56 PM",,,BParsons@domain1.test.local,1
+Donelda Pearson,S-1-5-21-306263214-2362191459-3415812841-1192,domain5.test.local,User,,,Hybrid,,DStephenson@domain1.test.local,"[""Sensitive""]","Feb 14, 2023 3:19:42 PM",,,DPearson@domain1.test.local,1
+Reynaldo Pitts,S-1-5-21-306263214-2362191459-3415812841-2048,domain1.test.local,User,,,Hybrid,,RPitts@domain1.test.local,"[""Sensitive""]","Jan 29, 2025 4:28:58 PM",,,RPitts@domain1.test.local,1
+Brodie Blaney,S-1-5-21-306263214-2362191459-3415812841-1341,domain3.test.local,User,,,Hybrid,,KSandford@domain1.test.local,"[""Sensitive""]","Oct 27, 2022 1:53:35 PM",,,BBlaney@domain1.test.local,1
+Matilda Buckbee,S-1-5-21-306263214-2362191459-3415812841-1273,domain1.test.local,User,,,Hybrid,,RAnnesley@domain1.test.local,"[""Sensitive""]","Sep 2, 2024 7:59:27 PM",,,MBuckbee@domain1.test.local,1
+Brodie Blaney,S-1-5-21-306263214-2362191459-3415812841-1341,domain3.test.local,User,,,Hybrid,,KSandford@domain1.test.local,"[""Sensitive""]","Oct 27, 2022 1:53:35 PM",,,BBlaney@domain1.test.local,1
+Crispin Winterton,S-1-5-21-306263214-2362191459-3415812841-1748,domain1.test.local,User,,,Hybrid,,RBradford@domain1.test.local,"[""Sensitive""]","Jun 25, 2022 8:55:03 PM",,,CWinterton@domain1.test.local,1
+Myrta Dorset,S-1-5-21-306263214-2362191459-3415812841-1731,domain1.test.local,User,,,Hybrid,,DRowen@domain1.test.local,"[""Sensitive""]","Sep 2, 2024 7:59:57 PM",,,MDorset@domain1.test.local,1
+Brodie Blaney,S-1-5-21-306263214-2362191459-3415812841-1341,domain3.test.local,User,,,Hybrid,,KSandford@domain1.test.local,"[""Sensitive""]","Oct 27, 2022 1:53:35 PM",,,BBlaney@domain1.test.local,1
+Mackie Nguyen,S-1-5-21-306263214-2362191459-3415812841-1222,domain5.test.local,User,,,Hybrid,,LHaverill@domain1.test.local,"[""Sensitive""]","Feb 14, 2023 3:19:44 PM",,,MNguyen@domain1.test.local,1
+Evlyn Bradshaw,S-1-5-21-306263214-2362191459-3415812841-1625,,User,,,Hybrid,,BGihon@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:46 PM",,,EBradshaw@domain1.test.local,1
+Crispin Winterton,S-1-5-21-306263214-2362191459-3415812841-1748,domain1.test.local,User,,,Hybrid,,RBradford@domain1.test.local,"[""Sensitive""]","Jun 25, 2022 8:55:03 PM",,,CWinterton@domain1.test.local,1
+Evlyn Bradshaw,S-1-5-21-306263214-2362191459-3415812841-1625,,User,,,Hybrid,,BGihon@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:46 PM",,,EBradshaw@domain1.test.local,1
+Garald Gaston,S-1-5-21-306263214-2362191459-3415812841-1263,domain1.test.local,User,,,Hybrid,,KNeal@domain1.test.local,"[""Sensitive""]","Jun 25, 2022 8:54:25 PM",,,GGaston@domain1.test.local,1
+Garald Gaston,S-1-5-21-306263214-2362191459-3415812841-1263,domain1.test.local,User,,,Hybrid,,KNeal@domain1.test.local,"[""Sensitive""]","Jun 25, 2022 8:54:25 PM",,,GGaston@domain1.test.local,1
+Brodie Blaney,S-1-5-21-306263214-2362191459-3415812841-1341,domain3.test.local,User,,,Hybrid,,KSandford@domain1.test.local,"[""Sensitive""]","Oct 27, 2022 1:53:35 PM",,,BBlaney@domain1.test.local,1
+Evlyn Bradshaw,S-1-5-21-306263214-2362191459-3415812841-1625,,User,,,Hybrid,,BGihon@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:46 PM",,,EBradshaw@domain1.test.local,1
+Crispin Winterton,S-1-5-21-306263214-2362191459-3415812841-1748,domain1.test.local,User,,,Hybrid,,RBradford@domain1.test.local,"[""Sensitive""]","Jun 25, 2022 8:55:03 PM",,,CWinterton@domain1.test.local,1
+Evlyn Bradshaw,S-1-5-21-306263214-2362191459-3415812841-1625,,User,,,Hybrid,,BGihon@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:46 PM",,,EBradshaw@domain1.test.local,1
+Myrta Dorset,S-1-5-21-306263214-2362191459-3415812841-1731,domain1.test.local,User,,,Hybrid,,DRowen@domain1.test.local,"[""Sensitive""]","Sep 2, 2024 7:59:57 PM",,,MDorset@domain1.test.local,1
+Littleton Mcpherson,S-1-5-21-306263214-2362191459-3415812841-1528,,User,,,Hybrid,,HHanna@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:40 PM",,,LMcpherson@domain1.test.local,1
+Littleton Mcpherson,S-1-5-21-306263214-2362191459-3415812841-1528,,User,,,Hybrid,,HHanna@domain1.test.local,"[""Sensitive""]","May 24, 2022 12:08:40 PM",,,LMcpherson@domain1.test.local,1
+Theola Carmichael,S-1-5-21-306263214-2362191459-3415812841-1946,domain1.test.local,User,,,Hybrid,,WOakham@domain1.test.local,"[""Sensitive""]","Aug 18, 2024 5:03:29 PM",,,TCarmichael@domain1.test.local,1
+Theola Carmichael,S-1-5-21-306263214-2362191459-3415812841-1946,domain1.test.local,User,,,Hybrid,,WOakham@domain1.test.local,"[""Sensitive""]","Aug 18, 2024 5:03:29 PM",,,TCarmichael@domain1.test.local,1
+Theola Carmichael,S-1-5-21-306263214-2362191459-3415812841-1946,domain1.test.local,User,,,Hybrid,,WOakham@domain1.test.local,"[""Sensitive""]","Aug 18, 2024 5:03:29 PM",,,TCarmichael@domain1.test.local,1

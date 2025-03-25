@@ -1,38 +1,38 @@
-.App {
-  text-align: center;
+.app-container {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.main-content {
+    flex: 3;
+    overflow-y: auto; /* Scrolls only the identities table */
+    padding: 20px;
+    margin-right: 25%; /* Ensure space for the chatbox */
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.chatbox-container {
+    flex: 1;
+    border-left: 2px solid #ddd; 
+    position: fixed;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 25%; /* Adjust width based on your preference */
+    background-color: #f4f4f4;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+    overflow-y: auto; /* Ensure chatbox content is scrollable */
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.identity-table-heading {
+    text-align: left;
+    margin-bottom: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+.filter-set {
+    margin-bottom: 0; /* Remove margin between FilterSet and IdentityTable */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.identity-table {
+    margin-top: 0; /* Remove margin between FilterSet and IdentityTable */
 }
