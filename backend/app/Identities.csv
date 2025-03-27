@@ -1,0 +1,67 @@
+﻿Display name,SID,Domain,Type,Object ID,Cloud ID,Cloud Provider,Source,UPN,Tags,Created time,Criticality Level,Account Status,Last updated
+aaaaaa,,MCASAATP.ccsctp.net,User,8bd1ece6-65bc-4539-910e-1f6529a3d43f,,,Cloud,aaaaa@MCASAATP.ccsctp.net,,2025-03-03T07:54:20.000Z,,Enabled,
+AAD IGA Read Application,,,Service,5d6b8271-b85a-4f2f-bd83-ce86ac17743c,,,Cloud,,,,,Enabled,
+AAD Request Verification Service - PPE,,,Service,10bd558b-475b-4c1d-b9a2-16907dfe8c4c,,,Cloud,,,,,Enabled,
+AAD Terms Of Use,,,Service,fd2c9850-6ce5-4b5a-9e0a-945ffe1b9887,,,Cloud,,,,,Enabled,
+AAD_4c9805e44934,s-1-5-21-989687458-3461180213-172365591-278614,domain1.test.local,User,,,,On-premises,,,2021-11-25T14:18:00.000Z,,Enabled,2023-01-10T13:40:54.000Z
+AADPremiumService,,,Service,a91b9035-d8f2-4377-9bde-3a8b9f258dec,,,Cloud,,,,,Enabled,
+AADReporting,,,Service,76738a4e-286e-46a5-bd80-a422fed25648,,,Cloud,,,,,Enabled,
+abc,,MCASAATP.ccsctp.net,User,271b2a81-d3c5-47db-a5b0-f18c77cea633,,,Cloud,abc@MCASAATP.ccsctp.net,,2023-05-03T10:42:27.000Z,,Enabled,
+Abelardo Melton,s-1-5-21-2687365137-2087825785-2724683265-4527,domain2.test.local,User,ceaf4f38-b7ab-4a35-b6f1-d5f903c6d831,,,Hybrid,AMelton@domain2.test.local,,2016-04-27T08:02:12.000Z,Very high,Disabled,2022-09-19T10:03:43.000Z
+Abie Rich,s-1-5-21-2687365137-2087825785-2724683265-5032,domain2.test.local,User,6b434578-03cc-4706-8ae2-5d806eca286c,,,Hybrid,ARich@domain2.test.local,,2016-04-27T08:02:30.000Z,,Enabled,2016-04-27T08:15:24.000Z
+Abnormal Vpn,s-1-5-21-306263214-2362191459-3415812841-3210,domain1.test.local,User,,,,On-premises,User12@domain1.test.local,,2023-01-30T12:35:47.000Z,High,Enabled,2023-01-30T12:35:47.000Z
+accessibility,,mcasaatp.ccsctp.net,User,1cc97d58-4d06-43c1-a159-c4f4c52ad55f,,,Cloud,accessibility@mcasaatp.ccsctp.net,,2022-08-04T09:12:25.000Z,High,Enabled,
+Accessibility Admin,,MCASAATP.ccsctp.net,User,1ec9c167-6c5f-4615-a433-8a5227dfa7fd,,,Cloud,accessibility_admin@MCASAATP.ccsctp.net,,2021-12-26T12:14:25.000Z,Very high,Enabled,
+aciapi,,,Service,97492f1f-1442-4626-9f50-863e3f0148fe,,,Cloud,,,,,Enabled,
+activity test user,,MCASAATP.ccsctp.net,User,a24ba0b3-c5f3-4ea0-aca6-a0e2905c0b56,,,Cloud,activity_test@MCASAATP.ccsctp.net,,2023-03-14T13:28:40.000Z,Very high,Enabled,
+AD Hybrid Health,,,Service,5a340f6b-19f9-4f56-b6f7-c04f87256459,,,Cloud,,,,,Enabled,
+Adair Barrow,s-1-5-21-2687365137-2087825785-2724683265-4782,domain2.test.local,User,70e013f0-e7a8-4eac-a1bd-4d420221bad9,,,Hybrid,ABarrow@domain2.test.local,,2016-04-27T08:02:21.000Z,,Enabled,2016-04-27T08:15:32.000Z
+Adam Bar,,mcasaatp.ccsctp.net,User,e187391d-e502-4a23-a1c7-20b6f2b2fd78,,,Cloud,adbar@mcasaatp.ccsctp.net,,2021-01-14T15:49:09.000Z,,Enabled,
+Adam Britt,s-1-5-21-2687365137-2087825785-2724683265-4463,domain2.test.local,User,56e339f2-8f41-431b-9cbf-2d3ad51b853b,,,Hybrid,ABritt@domain2.test.local,,2016-04-27T08:02:10.000Z,,Enabled,2023-11-12T10:01:47.000Z
+Addison Hinckley,s-1-5-21-2687365137-2087825785-2724683265-4987,domain2.test.local,User,f19f308c-996e-451f-871d-f5ba54a05022,,,Hybrid,AHinckley@domain2.test.local,,2016-04-27T08:02:28.000Z,,Enabled,2016-04-27T08:14:25.000Z
+Adelaine Boyle,s-1-5-21-2687365137-2087825785-2724683265-4712,domain2.test.local,User,302e0e59-1860-4138-aa3d-584bd108e73e,,,Hybrid,ABoyle@domain2.test.local,,2016-04-27T08:02:19.000Z,,Enabled,2016-04-27T08:13:58.000Z
+Adelina Norris,s-1-5-21-2687365137-2087825785-2724683265-4151,domain2.test.local,User,604ca347-ff4a-4cba-ace8-27fe47687317,,,Hybrid,ANorris@domain2.test.local,,2016-04-27T08:01:58.000Z,,Enabled,2016-04-27T08:12:48.000Z
+Adella Mcintyre,s-1-5-21-2687365137-2087825785-2724683265-4303,domain2.test.local,User,76b6c7df-8dfd-4320-8188-cbcd42347717,,,Hybrid,AMcintyre@domain2.test.local,,2016-04-27T08:02:03.000Z,,Enabled,2016-04-27T08:10:51.000Z
+adfs_user$,s-1-5-21-2803078954-656116424-3952224730-1606,altshuler.xyz,Service,,,,On-premises,,,2024-12-13T19:48:29.000Z,,Enabled,2024-12-28T13:07:24.000Z
+AdfsAccount$,s-1-5-21-989687458-3461180213-172365591-277607,domain1.test.local,Service,,,,On-premises,,Sensitive,2019-10-07T12:21:33.000Z,,Enabled,2022-02-23T10:03:45.000Z
+Admin,,MCASAATP.ccsctp.net,User,d64d5206-aa91-4835-a3c0-13e4aa6b4a9c,,,Cloud,Admin@MCASAATP.ccsctp.net,,2024-12-19T13:37:08.000Z,,Enabled,
+admin deleted- test error,,MCASAATP.ccsctp.net,User,91da8213-3464-424d-9413-3eaa41666c3f,,,Cloud,admindeleted@MCASAATP.ccsctp.net,,2024-01-02T10:16:47.000Z,,Enabled,
+admin1,,MCASAATP.ccsctp.net,User,2cb82069-d3e3-4578-8a1b-0b1233363135,,,Cloud,Admin1@MCASAATP.ccsctp.net,,2018-12-19T14:56:08.000Z,Very high,Enabled,
+admin111,,mcasaatp.ccsctp.net,User,2e19b2b8-bdc4-4162-9181-bd56dcd723fc,,,Cloud,admin111@mcasaatp.ccsctp.net,,2022-03-01T17:40:54.000Z,Very high,Enabled,
+Admin2,s-1-5-21-989687458-3461180213-172365591-279420,domain1.test.local,User,97459b29-b98c-457a-ae77-93db6deb92d3,,,Hybrid,Admin2@domain1.test.local,Sensitive,2019-12-03T10:37:30.000Z,High,Disabled,2023-12-07T09:56:21.000Z
+Admin2,,MCASAATP.ccsctp.net,User,2e4d3f55-c2cf-4c5e-bd17-eddc33632f89,,,Cloud,Admin2@MCASAATP.ccsctp.net,,2018-12-19T14:53:58.000Z,Very high,Enabled,
+admin3,s-1-5-21-989687458-3461180213-172365591-279624,domain1.test.local,User,6a5f3eb4-318d-4b10-b7bf-aaa6e7be1b09,,,Hybrid,admin3@domain1.test.local,Sensitive,2020-05-19T17:12:13.000Z,High,Enabled,2024-11-08T14:57:35.000Z
+admin4,s-1-5-21-989687458-3461180213-172365591-279631,domain1.test.local,User,c81c943b-49ed-4923-826f-59f000ae1c2c,,,Hybrid,admin4@domain1.test.local,Sensitive,2020-06-23T10:59:56.000Z,High,Enabled,2024-05-11T12:23:05.000Z
+admin5,s-1-5-21-989687458-3461180213-172365591-279632,domain1.test.local,User,c73163f7-51e7-430d-96e5-bbffcda87c7c,,,Hybrid,admin5@domain1.test.local,Sensitive,2020-06-23T11:02:08.000Z,High,Enabled,2021-11-25T15:05:56.000Z
+Administrator,s-1-5-21-2656172010-3634006565-554535441-500,yuval30.test.local,User,,,,On-premises,,Sensitive,2024-12-02T07:27:00.000Z,,Enabled,2024-12-02T08:02:58.000Z
+Administrator,s-1-5-21-1297930099-202153433-154539890-500,d_tc25022.defensor.local,User,,,,On-premises,,Sensitive,2025-01-14T13:18:53.000Z,,Enabled,2025-03-14T13:44:40.000Z
+Administrator,s-1-5-21-266913402-1626219364-3788061335-500,darya3112.test.local,User,,,,On-premises,,Sensitive,2024-12-31T13:47:16.000Z,,Enabled,2025-02-09T15:36:09.000Z
+Administrator,s-1-5-21-2717458995-3384669180-1524466888-500,yuvalp.test1025.local,User,,,,On-premises,,,2024-10-27T12:16:28.000Z,High,Enabled,2024-11-24T07:17:22.000Z
+Administrator,s-1-5-21-849964532-3029608192-1428383483-500,darya2.test.local,User,,,,On-premises,,,2024-10-10T11:33:53.000Z,High,Enabled,2024-11-06T08:40:09.000Z
+Administrator,s-1-5-21-254912565-765761066-4116125187-500,gabig.defensor.local,User,,,,On-premises,,,2024-10-13T20:46:10.000Z,High,Enabled,2024-11-03T07:23:23.000Z
+Administrator,s-1-5-21-2733286291-3901550035-2797273489-500,yuval22.test.local,User,,,,On-premises,,Sensitive,2024-11-27T08:37:36.000Z,,Enabled,2024-11-27T08:53:56.000Z
+Administrator,s-1-5-21-3729999119-4137156278-675770368-500,mica1.test.local,User,,,,On-premises,,,2024-11-12T11:56:54.000Z,,Enabled,2024-11-19T10:45:21.000Z
+Administrator,s-1-5-21-1178749232-2793832359-1563609156-500,darya1.test.local,User,,,,On-premises,,,2024-09-30T08:29:17.000Z,High,Enabled,2024-09-30T08:59:13.000Z
+Administrator,s-1-5-21-1575209139-2350359548-1293410067-500,barbox1.test.local,User,,,,On-premises,,,2024-10-09T13:00:59.000Z,High,Enabled,2024-10-29T12:18:22.000Z
+Administrator,s-1-5-21-429525224-1452567461-933333153-500,efig.devlab2.test,User,,,,On-premises,,Sensitive,2024-11-14T12:29:47.000Z,,Enabled,2025-03-17T11:51:46.000Z
+Administrator,,MCASAATP.ccsctp.net,User,3b67e7c2-ea55-45e7-b7ce-132428973e9f,,,Cloud,Administrator@MCASAATP.ccsctp.net,,2018-08-07T11:52:54.000Z,Very high,Enabled,
+Administrator,s-1-5-21-4077643283-3775493792-949516076-500,efig.devlab1.test,User,,,,On-premises,,,2024-11-10T10:35:27.000Z,High,Enabled,2024-11-10T10:51:28.000Z
+Administrator,s-1-5-21-3589730768-2861620972-879363931-500,mydomain14.com,User,,,,On-premises,,,2024-09-22T07:13:36.000Z,High,Enabled,2024-09-22T07:29:36.000Z
+Administrator,s-1-5-21-527153972-3814832750-822285544-500,domain8.test.local,User,,,,On-premises,,,2024-09-02T08:15:51.000Z,,Enabled,2024-09-02T09:37:15.000Z
+Administrator,s-1-5-21-2687365137-2087825785-2724683265-500,domain2.test.local,User,572ec242-5a5b-40a5-a1c3-49744eff5eb6,,,Hybrid,Administrator5498@MCASAATP.ccsctp.net,Sensitive,2016-04-27T07:07:08.000Z,High,Enabled,2023-11-16T06:44:40.000Z
+Administrator,s-1-5-21-2849047210-350468117-1197813238-500,vs.test.local,User,,,,On-premises,,,2024-11-28T12:09:54.000Z,,Enabled,2024-12-01T10:43:23.000Z
+Administrator,s-1-5-21-3422664657-4171118850-50095873-500,efig3.devlab.test,User,,,,On-premises,,Sensitive,2024-11-26T13:26:57.000Z,,Enabled,2024-12-12T08:47:24.000Z
+Administrator,s-1-5-21-306263214-2362191459-3415812841-500,domain1.test.local,User,,,,On-premises,,Sensitive,2024-08-18T11:16:02.000Z,High,Enabled,2024-09-01T08:19:30.000Z
+Administrator,s-1-5-21-3452340184-3385130237-3458307242-500,domainRPCP.defensor.local,User,,,,On-premises,,Sensitive,2024-09-16T12:10:56.000Z,,Enabled,2024-12-06T13:09:35.000Z
+Administrator,s-1-5-21-2803078954-656116424-3952224730-500,altshuler.xyz,User,,,,On-premises,,Sensitive,2024-10-23T20:08:03.000Z,High,Enabled,2025-01-12T15:18:22.000Z
+Administrator,s-1-5-21-3842900082-3130434967-3655278810-500,d_tc2410.defensor.local,User,,,,On-premises,,,2024-12-02T09:06:05.000Z,,Enabled,2024-12-02T09:23:38.000Z
+Administrator,s-1-5-21-2314151917-791359974-4203668140-500,yuval1220.test.local,User,,,,On-premises,,,2024-12-23T10:01:18.000Z,,Enabled,2024-12-23T10:17:27.000Z
+Administrator,s-1-5-21-306263214-2362191459-3415812841-500,,User,,,,On-premises,,Sensitive,2022-05-24T06:22:14.000Z,High,Enabled,2022-08-28T10:40:17.000Z
+Administrator,s-1-5-21-1330429116-3117925940-2382144759-500,tomerstg.test.locl,User,,,,On-premises,,,2024-10-13T18:36:09.000Z,,Enabled,2024-11-06T17:22:13.000Z
+Administrator,s-1-5-21-2628120465-3932894164-1567256719-500,domainmainG.defensor.local,User,,,,On-premises,,Sensitive,2024-12-08T11:46:20.000Z,,Enabled,2025-03-21T15:06:44.000Z
+Administrator,s-1-5-21-759538123-1042936442-674163799-500,d_tc2502d.defensor.local,User,,,,On-premises,,Sensitive,2024-11-24T08:00:06.000Z,,Enabled,2025-02-16T08:30:40.000Z
+administrator eden,,MCASAATP.ccsctp.net,User,49c02837-f15e-4473-8257-77219d9deb74,,,Cloud,administrator-eden@MCASAATP.ccsctp.net,,2021-11-03T12:17:28.000Z,Very high,Enabled,
+administrator$,s-1-5-21-306263214-2362191459-3415812841-3211,domain3.test.local,Service,,,,On-premises,,,2022-10-27T14:51:42.000Z,,Enabled,2022-11-07T07:48:23.000Z
+Administrator$,s-1-5-21-989687458-3461180213-172365591-278105,domain1.test.local,Service,,,,On-premises,,Sensitive,2021-07-08T12:24:58.000Z,,Enabled,2022-10-31T10:00:30.000Z
+Administrator2,,mcasaatp.ccsctp.net,User,a381ff66-2f68-482a-a51c-1004ae0f8dc2,,,Cloud,Administrator2@mcasaatp.ccsctp.net,,2021-11-03T14:09:15.000Z,Very high,Enabled,
+AdminUser,s-1-5-21-3729999119-4137156278-675770368-1000,mica1.test.local,User,,,,On-premises,,,2024-11-12T11:56:54.000Z,,Enabled,2024-11-12T12:13:02.000Z
